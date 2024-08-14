@@ -1,0 +1,3 @@
+nome: washington
+idade: 50
+email 00111wa
