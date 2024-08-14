@@ -1,3 +1,0 @@
-Nome : washinton
-idade: 17
-email: 0000111406454a
